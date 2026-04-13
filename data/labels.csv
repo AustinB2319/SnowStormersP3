@@ -1,0 +1,194 @@
+iso3,country_name,income_tier
+AFG,Afghanistan,Low
+BDI,Burundi,Low
+BFA,Burkina Faso,Low
+CAF,Central African Rep.,Low
+TCD,Chad,Low
+COD,Dem. Rep. Congo,Low
+ERI,Eritrea,Low
+ETH,Ethiopia,Low
+GMB,Gambia,Low
+GIN,Guinea,Low
+GNB,Guinea-Bissau,Low
+HTI,Haiti,Low
+LBR,Liberia,Low
+MDG,Madagascar,Low
+MLI,Mali,Low
+MOZ,Mozambique,Low
+MWI,Malawi,Low
+NER,Niger,Low
+PRK,North Korea,Low
+RWA,Rwanda,Low
+SLE,Sierra Leone,Low
+SOM,Somalia,Low
+SSD,S. Sudan,Low
+SYR,Syria,Low
+TGO,Togo,Low
+UGA,Uganda,Low
+YEM,Yemen,Low
+AGO,Angola,Lower-Middle
+BGD,Bangladesh,Lower-Middle
+BEN,Benin,Lower-Middle
+BOL,Bolivia,Lower-Middle
+BTN,Bhutan,Lower-Middle
+CMR,Cameroon,Lower-Middle
+CIV,Côte d'Ivoire,Lower-Middle
+COM,,Lower-Middle
+COG,Congo,Lower-Middle
+CPV,,Lower-Middle
+DJI,Djibouti,Lower-Middle
+EGY,Egypt,Lower-Middle
+FSM,,Lower-Middle
+GHA,Ghana,Lower-Middle
+GUY,Guyana,Lower-Middle
+HND,Honduras,Lower-Middle
+IND,India,Lower-Middle
+IRQ,Iraq,Lower-Middle
+KEN,Kenya,Lower-Middle
+KGZ,Kyrgyzstan,Lower-Middle
+KIR,,Lower-Middle
+LSO,Lesotho,Lower-Middle
+LKA,Sri Lanka,Lower-Middle
+MAR,Morocco,Lower-Middle
+MHL,,Lower-Middle
+MMR,Myanmar,Lower-Middle
+MNG,Mongolia,Lower-Middle
+MRT,Mauritania,Lower-Middle
+NGA,Nigeria,Lower-Middle
+NIC,Nicaragua,Lower-Middle
+NPL,Nepal,Lower-Middle
+PAK,Pakistan,Lower-Middle
+PHL,Philippines,Lower-Middle
+PNG,Papua New Guinea,Lower-Middle
+PSE,Palestine,Lower-Middle
+SDN,Sudan,Lower-Middle
+SEN,Senegal,Lower-Middle
+SLB,Solomon Is.,Lower-Middle
+SLV,El Salvador,Lower-Middle
+STP,,Lower-Middle
+SWZ,eSwatini,Lower-Middle
+TJK,Tajikistan,Lower-Middle
+TLS,Timor-Leste,Lower-Middle
+TON,,Lower-Middle
+TUN,Tunisia,Lower-Middle
+TUV,,Lower-Middle
+TZA,Tanzania,Lower-Middle
+UKR,Ukraine,Lower-Middle
+UZB,Uzbekistan,Lower-Middle
+VNM,Vietnam,Lower-Middle
+VUT,Vanuatu,Lower-Middle
+WSM,,Lower-Middle
+ZMB,Zambia,Lower-Middle
+ZWE,Zimbabwe,Lower-Middle
+ALB,Albania,Upper-Middle
+DZA,Algeria,Upper-Middle
+ARG,Argentina,Upper-Middle
+ARM,Armenia,Upper-Middle
+AZE,Azerbaijan,Upper-Middle
+BIH,Bosnia and Herz.,Upper-Middle
+BLR,Belarus,Upper-Middle
+BLZ,Belize,Upper-Middle
+BRA,Brazil,Upper-Middle
+BWA,Botswana,Upper-Middle
+CHN,China,Upper-Middle
+COL,Colombia,Upper-Middle
+CRI,Costa Rica,Upper-Middle
+CUB,Cuba,Upper-Middle
+DOM,Dominican Rep.,Upper-Middle
+ECU,Ecuador,Upper-Middle
+FJI,Fiji,Upper-Middle
+GAB,Gabon,Upper-Middle
+GEO,Georgia,Upper-Middle
+GNQ,Eq. Guinea,Upper-Middle
+GTM,Guatemala,Upper-Middle
+IDN,Indonesia,Upper-Middle
+IRN,Iran,Upper-Middle
+JAM,Jamaica,Upper-Middle
+JOR,Jordan,Upper-Middle
+KAZ,Kazakhstan,Upper-Middle
+LBN,Lebanon,Upper-Middle
+LBY,Libya,Upper-Middle
+MDV,,Upper-Middle
+MEX,Mexico,Upper-Middle
+MDA,Moldova,Upper-Middle
+MKD,North Macedonia,Upper-Middle
+MNE,Montenegro,Upper-Middle
+MUS,,Upper-Middle
+MYS,Malaysia,Upper-Middle
+NAM,Namibia,Upper-Middle
+NRU,,Upper-Middle
+PER,Peru,Upper-Middle
+PLW,,Upper-Middle
+PRY,Paraguay,Upper-Middle
+RUS,Russia,Upper-Middle
+SRB,Serbia,Upper-Middle
+SUR,Suriname,Upper-Middle
+THA,Thailand,Upper-Middle
+TKM,Turkmenistan,Upper-Middle
+TUR,Turkey,Upper-Middle
+VCT,,Upper-Middle
+VEN,Venezuela,Upper-Middle
+ZAF,South Africa,Upper-Middle
+XKX,,Upper-Middle
+AND,,High
+ARE,United Arab Emirates,High
+ATG,,High
+AUS,Australia,High
+AUT,Austria,High
+BHR,,High
+BEL,Belgium,High
+BHS,Bahamas,High
+BRB,,High
+BRN,Brunei,High
+CAN,Canada,High
+CHL,Chile,High
+CHE,Switzerland,High
+CYP,Cyprus,High
+CZE,Czechia,High
+DEU,Germany,High
+DNK,Denmark,High
+DMA,,High
+ESP,Spain,High
+EST,Estonia,High
+FIN,Finland,High
+FRA,France,High
+GBR,United Kingdom,High
+GRC,Greece,High
+GRD,,High
+HKG,,High
+HRV,Croatia,High
+HUN,Hungary,High
+IRL,Ireland,High
+ISL,Iceland,High
+ISR,Israel,High
+ITA,Italy,High
+JPN,Japan,High
+KNA,,High
+KOR,South Korea,High
+KWT,Kuwait,High
+LIE,,High
+LTU,Lithuania,High
+LUX,Luxembourg,High
+LVA,Latvia,High
+MAC,,High
+MCO,,High
+MLT,,High
+NLD,Netherlands,High
+NOR,Norway,High
+NZL,New Zealand,High
+OMN,Oman,High
+PAN,Panama,High
+POL,Poland,High
+PRT,Portugal,High
+QAT,Qatar,High
+ROU,Romania,High
+SAU,Saudi Arabia,High
+SGP,,High
+SMR,,High
+SVK,Slovakia,High
+SVN,Slovenia,High
+SWE,Sweden,High
+TTO,Trinidad and Tobago,High
+TWN,Taiwan,High
+URY,Uruguay,High
+USA,United States of America,High
