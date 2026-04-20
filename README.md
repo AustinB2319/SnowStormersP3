@@ -112,7 +112,7 @@ cd SnowStormersP3
 pip install numpy pandas geopandas rasterio h5py requests scipy scikit-learn torch torchvision matplotlib seaborn
 ```
 
-4. Create a free NASA Earthdata account at https://urs.earthdata.nasa.gov. Once logged in, go to your profile and generate a **Bearer token**. You will need this in the next step.
+4. Create a free NASA Earthdata account at https://urs.earthdata.nasa.gov. Once logged in, go to your profile and generate a **Bearer token**. 
 
 ---
 
@@ -226,8 +226,6 @@ python scripts/05_train.py
 - `models/logreg.pkl` + `models/logreg_results.json`
 - `models/cnn_best.pt` + `models/cnn_history.json`
 - `models/resnet_best.pt` + `models/resnet_history.json`
-
-> **Note:** CNN and ResNet training runs on CPU by default. On a standard laptop expect ~15–30 minutes for the CNN and ~30–60 minutes for ResNet-18. If a CUDA GPU is available, PyTorch will use it automatically.
 
 ---
 
