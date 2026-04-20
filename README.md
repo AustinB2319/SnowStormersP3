@@ -1,4 +1,4 @@
-# 🌙 Nighttime Light as a Measure of Economic Development
+# Nighttime Light as a Measure of Economic Development
 
 **DS 4002 – Data Science Project | Spring 2026**  
 **Team:** Snow Stormers — Jacob VanBenschoten, Austin Blackburn, Aleeza Sadiq *(leader)*
